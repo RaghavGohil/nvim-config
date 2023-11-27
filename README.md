@@ -15,7 +15,8 @@ cooooooooooooooooolllllllllllllllllll
 - Treesitter
 - Basic LSP
 - TPope's vim fugitive
-- harpoon
+- Harpoon
 - and a kanagawa theme
-  These aren't many as I am just starting out, but coming from vim, I am already feeling blazingly fast.
-  Also, I am using windows so I am trying to go for linux.
+
+These aren't many as I am just starting out, but coming from vim, I am already feeling blazingly fast.
+Also, I am using windows so I am trying to go for linux.
